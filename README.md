@@ -13,5 +13,5 @@ Esta galería muestra diferentes iconos de [Fontawesome](https://fontawesome.com
 1. Al hacer click en la “x” dentro del ícono, se deberá llamar la función `eliminarIcono` de tal forma que ese ícono sea eliminado.
 2. Entrega este ejercicio como una Pull Request en Github
 
-### Recursos:
+### Recursos:
 - [Galería de Iconos de Fontawesome](https://fontawesome.com/icons?d=gallery)
